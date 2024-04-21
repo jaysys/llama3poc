@@ -1,6 +1,13 @@
 # llama3poc
 Meta llama3 POC
 
->> pip install hugginface-hub
+# python
+> pip install hugginface-hub
+> pip install torch
+> pip install transformers
 
->> huggingface-cli login
+> huggingface-cli login
+
+> python xxx.py
+
+
