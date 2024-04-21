@@ -2,14 +2,14 @@
 Meta llama3 POC
 
 # python
-pip install hugginface-hub
+%pip install hugginface-hub
 
-pip install torch
+%pip install torch
 
-pip install transformers
+%pip install transformers
 
-huggingface-cli login
- % huggingface-cli login
+%huggingface-cli login
+ %huggingface-cli login
 
     _|    _|  _|    _|    _|_|_|    _|_|_|  _|_|_|  _|      _|    _|_|_|      _|_|_|_|    _|_|      _|_|_|  _|_|_|_|
     _|    _|  _|    _|  _|        _|          _|    _|_|    _|  _|            _|        _|    _|  _|        _|
@@ -22,6 +22,6 @@ huggingface-cli login
     To login, `huggingface_hub` requires a token generated from https://huggingface.co/settings/tokens .
 Enter your token (input will not be visible): 
 
-python xxx.py
+%python xxx.py
 
 
