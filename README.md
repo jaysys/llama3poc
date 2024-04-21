@@ -9,7 +9,7 @@ pip install torch
 pip install transformers
 
 huggingface-cli login
- % huggingface-cli login
+ 
 
     _|    _|  _|    _|    _|_|_|    _|_|_|  _|_|_|  _|      _|    _|_|_|      _|_|_|_|    _|_|      _|_|_|  _|_|_|_|
     _|    _|  _|    _|  _|        _|          _|    _|_|    _|  _|            _|        _|    _|  _|        _|
